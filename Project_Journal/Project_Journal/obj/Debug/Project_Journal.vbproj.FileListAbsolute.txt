@@ -1,0 +1,11 @@
+D:\Nirbhay\Project_Journal\Project_Journal\bin\Debug\Project_Journal.exe.config
+D:\Nirbhay\Project_Journal\Project_Journal\bin\Debug\Project_Journal.exe
+D:\Nirbhay\Project_Journal\Project_Journal\bin\Debug\Project_Journal.pdb
+D:\Nirbhay\Project_Journal\Project_Journal\bin\Debug\Project_Journal.xml
+D:\Nirbhay\Project_Journal\Project_Journal\obj\Debug\Project_Journal.Form1.resources
+D:\Nirbhay\Project_Journal\Project_Journal\obj\Debug\Project_Journal.Resources.resources
+D:\Nirbhay\Project_Journal\Project_Journal\obj\Debug\Project_Journal.Redio.resources
+D:\Nirbhay\Project_Journal\Project_Journal\obj\Debug\Project_Journal.vbproj.GenerateResource.Cache
+D:\Nirbhay\Project_Journal\Project_Journal\obj\Debug\Project_Journal.exe
+D:\Nirbhay\Project_Journal\Project_Journal\obj\Debug\Project_Journal.xml
+D:\Nirbhay\Project_Journal\Project_Journal\obj\Debug\Project_Journal.pdb

@@ -1,0 +1,18 @@
+//creat table 
+  
+
+(
+   creat table student
+   
+     student_idinterger,
+     name varchar(20),
+     email varchar(20),
+     dob date 
+);
+insertintotbl_student
+         values(1,'jinal','jinalpatel34007@gmail.com','1997-04-08')
+         values(2,'minal','minalpatel67004@gmail.com','1994-o8-13')
+         values(2,'mohit','mohitpatel99903@gmail.com','1999-02-25')
+
+
+  
